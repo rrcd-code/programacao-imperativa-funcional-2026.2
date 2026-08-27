@@ -1,0 +1,13 @@
+/******************************************************************************
+As diretivas de pré-processador em C (todas iniciadas com o caractere #) são lidas
+e interpretadas pelo:
+a) Linkeditor do sistema no momento de montagem do arquivo executável final.
+b) Microprocessador diretamente em tempo de execução.
+c) Pré-processador (fase do compilador que altera o programa-fonte antes da 
+compilação propriamente dita).
+d) Depurador integrado da IDE durante os testes de execução.
+
+Resposta correta : c)
+*******************************************************************************/
+
+
